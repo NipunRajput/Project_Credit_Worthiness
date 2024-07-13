@@ -54,3 +54,9 @@ This project demonstrates the process of building a predictive model for creditw
 
 
 ![alt text](image-1.png)
+
+
+Outcomes
+
+Feature Importance: The analysis revealed that certain features, such as the 'Status of existing checking account' and 'Credit history,' were significant predictors of creditworthiness, providing valuable insights into the factors influencing credit risk.
+Model Interpretability: The project highlighted the importance of data preprocessing, including categorical encoding and feature scaling, which are critical for the successful implementation and interpretability of the Random Forest model in real-world applications.
